@@ -8,15 +8,15 @@
 ## بالعربي
 
 رابط التجربة 
-https://tutorial-project-tz9l8.kinsta.page/
+[https://tutorial-project-tz9l8.kinsta.page/](https://7mod.dev.tc/)
 
 ### 📄 وصف المشروع
 هذا المشروع هو موقع شخصي تم إنشاؤه باستخدام HTML و CSS. تم تصميم الموقع ليكون متجاوبًا، مما يعني أنه يتكيف جيدًا مع أحجام الشاشات المختلفة.<br>
-وهذا المشروع مصنوع خصيصا لشرح تعليمي على يوتيوب: [رابط الشرح](https://youtu.be/VzAxCThj_5k?si=4WwLBuOnbGhgAQ2q).
+و
 
 
 ### 💡 شكر خاص
-تم استلهام تصميم هذا الموقع من [تصميم فيغما](https://www.figma.com/community/file/1175755450846438274/portfolio-website-design)، لذا نشكر **المصمم الأصلي** على عمله الرائع.
+
 
 
 ### 🖥️ كيفية تشغيل المشروع
@@ -39,7 +39,7 @@ https://tutorial-project-tz9l8.kinsta.page/
 ## English
 
 Demo : 
-https://tutorial-project-tz9l8.kinsta.page/
+[https://tutorial-project-tz9l8.kinsta.page/](https://7mod.dev.tc/)
 
 ### 📄 Project Description
 This project is a personal website created using HTML and CSS. The site is designed to be **responsive**, meaning it adapts well to different screen sizes. <br>
